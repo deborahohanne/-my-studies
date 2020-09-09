@@ -1,2 +1,2 @@
-# -my-studies
+# my-studies
 Repository for study projects.
